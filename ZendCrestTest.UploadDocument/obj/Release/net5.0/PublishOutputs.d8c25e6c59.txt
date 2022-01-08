@@ -1,0 +1,11 @@
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\ZendCrestTest.UploadDocument.exe
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\ZendCrestTest.UploadDocument.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\ZendCrestTest.UploadDocument.deps.json
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\ZendCrestTest.UploadDocument.runtimeconfig.json
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\ZendCrestTest.UploadDocument.pdb
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
