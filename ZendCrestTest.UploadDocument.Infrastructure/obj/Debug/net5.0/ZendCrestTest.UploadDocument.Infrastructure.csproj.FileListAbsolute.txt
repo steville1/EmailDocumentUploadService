@@ -1,0 +1,12 @@
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\bin\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.deps.json
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\bin\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\bin\Debug\net5.0\ref\ZendCrestTest.UploadDocument.Infrastructure.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\bin\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.pdb
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.AssemblyInfo.cs
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\obj\Debug\net5.0\ref\ZendCrestTest.UploadDocument.Infrastructure.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Infrastructure\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Infrastructure.pdb

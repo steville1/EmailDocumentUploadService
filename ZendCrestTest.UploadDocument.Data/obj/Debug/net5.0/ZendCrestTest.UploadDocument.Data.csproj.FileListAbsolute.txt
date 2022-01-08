@@ -1,0 +1,12 @@
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\bin\Debug\net5.0\ZendCrestTest.UploadDocument.Data.deps.json
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\bin\Debug\net5.0\ZendCrestTest.UploadDocument.Data.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\bin\Debug\net5.0\ref\ZendCrestTest.UploadDocument.Data.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\bin\Debug\net5.0\ZendCrestTest.UploadDocument.Data.pdb
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Data.csproj.AssemblyReference.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Data.AssemblyInfoInputs.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Data.AssemblyInfo.cs
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Data.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\obj\Debug\net5.0\ref\ZendCrestTest.UploadDocument.Data.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.Data\obj\Debug\net5.0\ZendCrestTest.UploadDocument.Data.pdb

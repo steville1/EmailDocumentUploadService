@@ -1,0 +1,12 @@
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\bin\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.deps.json
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\bin\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\bin\Debug\net5.0\ref\ZendCrestTest.UploadDocument.BusinessService.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\bin\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.pdb
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\obj\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.csproj.AssemblyReference.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\obj\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\obj\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.AssemblyInfoInputs.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\obj\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.AssemblyInfo.cs
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\obj\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.csproj.CoreCompileInputs.cache
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\obj\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\obj\Debug\net5.0\ref\ZendCrestTest.UploadDocument.BusinessService.dll
+C:\Users\Ikani Stephen\source\repos\ZendCrestTest.UploadDocument\ZendCrestTest.UploadDocument.BusinessService\obj\Debug\net5.0\ZendCrestTest.UploadDocument.BusinessService.pdb

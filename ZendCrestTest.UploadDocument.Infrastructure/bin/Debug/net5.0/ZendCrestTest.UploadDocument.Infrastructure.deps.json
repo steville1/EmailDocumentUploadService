@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ZendCrestTest.UploadDocument.Infrastructure/1.0.0": {
+        "runtime": {
+          "ZendCrestTest.UploadDocument.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZendCrestTest.UploadDocument.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

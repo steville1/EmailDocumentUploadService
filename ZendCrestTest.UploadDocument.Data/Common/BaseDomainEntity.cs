@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ZendCrestTest.UploadDocument.Data.Common
 {
-    class BaseDomainEntity
+    public abstract class BaseDomainEntity
     {
+        public int Id { get; set; }
+        public DateTime DateCreated { get; set; }
+        public DateTime DateLastModified { get; set; }
     }
 }
